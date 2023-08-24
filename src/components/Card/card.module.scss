@@ -1,0 +1,13 @@
+@import '../colors.scss';
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 4rem 0 0 0;
+    gap: 5rem;
+    img{
+        width: 100px;
+        padding: 1.5rem;
+        
+    }
+}
